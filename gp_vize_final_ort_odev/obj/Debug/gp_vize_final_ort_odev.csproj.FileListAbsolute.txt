@@ -1,0 +1,10 @@
+C:\Users\nurdd\source\repos\gp_vize_final_ort_odev\bin\Debug\gp_vize_final_ort_odev.exe.config
+C:\Users\nurdd\source\repos\gp_vize_final_ort_odev\bin\Debug\gp_vize_final_ort_odev.exe
+C:\Users\nurdd\source\repos\gp_vize_final_ort_odev\bin\Debug\gp_vize_final_ort_odev.pdb
+C:\Users\nurdd\source\repos\gp_vize_final_ort_odev\obj\Debug\gp_vize_final_ort_odev.csproj.AssemblyReference.cache
+C:\Users\nurdd\source\repos\gp_vize_final_ort_odev\obj\Debug\gp_vize_final_ort_odev.Form1.resources
+C:\Users\nurdd\source\repos\gp_vize_final_ort_odev\obj\Debug\gp_vize_final_ort_odev.Properties.Resources.resources
+C:\Users\nurdd\source\repos\gp_vize_final_ort_odev\obj\Debug\gp_vize_final_ort_odev.csproj.GenerateResource.cache
+C:\Users\nurdd\source\repos\gp_vize_final_ort_odev\obj\Debug\gp_vize_final_ort_odev.csproj.CoreCompileInputs.cache
+C:\Users\nurdd\source\repos\gp_vize_final_ort_odev\obj\Debug\gp_vize_final_ort_odev.exe
+C:\Users\nurdd\source\repos\gp_vize_final_ort_odev\obj\Debug\gp_vize_final_ort_odev.pdb
